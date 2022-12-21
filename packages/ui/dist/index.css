@@ -1,0 +1,58 @@
+/* src/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.pylarDimension {
+  @apply w-64 h-64 rounded-lg shadow-sm overflow-hidden hover:shadow-xl m-4 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110;
+}
+.pylarDiv {
+  @apply flex flex-row flex-wrap justify-center;
+}
+.pylarButton {
+  @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonTelegramStyle {
+  @apply m-2 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonDiscordStyle {
+  @apply m-2 bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonGithubStyle {
+  @apply m-2 bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonTwitterStyle {
+  @apply m-2 bg-blue-400 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonRedditStyle {
+  @apply m-2 bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonYoutubeStyle {
+  @apply m-2 bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonFacebookStyle {
+  @apply m-2 bg-blue-800 hover:bg-blue-900 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonInstagramStyle {
+  @apply m-2 bg-pink-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonTwitchStyle {
+  @apply m-2 bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonTiktokStyle {
+  @apply m-2 bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonLinkedinStyle {
+  @apply m-2 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonPinterestStyle {
+  @apply m-2 bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonSnapchatStyle {
+  @apply m-2 bg-yellow-500 hover:bg-yellow-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonWhatsappStyle {
+  @apply m-2 bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded;
+}
+.pylarButtonEmailStyle {
+  @apply m-2 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded;
+}
