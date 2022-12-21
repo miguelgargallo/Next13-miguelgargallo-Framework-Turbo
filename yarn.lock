@@ -1698,6 +1698,11 @@ merge2@^1.3.0, merge2@^1.4.1:
   resolved "https://registry.npmjs.org/merge2/-/merge2-1.4.1.tgz"
   integrity sha512-8q7VEgMJW4J8tcfVPy8g09NcQwZdbwFEqhe/WZkoIzjn/3TGDwtOCYtXGxA3O8tPzpczCCDgv+P2P5y00ZJOOg==
 
+meshgrad@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.npmjs.org/meshgrad/-/meshgrad-0.0.10.tgz"
+  integrity sha512-2zbFsXfjy1CxIT7oWn3KHo2HIJY/zZloMEVwuxmcM3baTW38wyogYkF+b2pKxGtTk+s8bU+sBZYKGMblF1+IJA==
+
 micromatch@^4.0.4, micromatch@^4.0.5:
   version "4.0.5"
   resolved "https://registry.npmjs.org/micromatch/-/micromatch-4.0.5.tgz"
@@ -2564,6 +2569,7 @@ v8-compile-cache@^2.0.3:
   version "1.0.0"
   resolved "file:apps/web"
   dependencies:
+    framer-motion "^8.0.1"
     next latest
     react "^18.2.0"
     react-dom "^18.2.0"
