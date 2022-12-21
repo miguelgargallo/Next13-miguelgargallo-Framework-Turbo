@@ -79,56 +79,56 @@
   resolved "https://registry.npmjs.org/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@motionone/animation@^10.13.1":
-  version "10.14.0"
-  resolved "https://registry.npmjs.org/@motionone/animation/-/animation-10.14.0.tgz"
-  integrity sha512-h+1sdyBP8vbxEBW5gPFDnj+m2DCqdlAuf2g6Iafb1lcMnqjsRXWlPw1AXgvUMXmreyhqmPbJqoNfIKdytampRQ==
+"@motionone/animation@^10.15.1":
+  version "10.15.1"
+  resolved "https://registry.npmjs.org/@motionone/animation/-/animation-10.15.1.tgz"
+  integrity sha512-mZcJxLjHor+bhcPuIFErMDNyrdb2vJur8lSfMCsuCB4UyV8ILZLvK+t+pg56erv8ud9xQGK/1OGPt10agPrCyQ==
   dependencies:
-    "@motionone/easing" "^10.14.0"
-    "@motionone/types" "^10.14.0"
-    "@motionone/utils" "^10.14.0"
+    "@motionone/easing" "^10.15.1"
+    "@motionone/types" "^10.15.1"
+    "@motionone/utils" "^10.15.1"
     tslib "^2.3.1"
 
-"@motionone/dom@10.13.1":
-  version "10.13.1"
-  resolved "https://registry.npmjs.org/@motionone/dom/-/dom-10.13.1.tgz"
-  integrity sha512-zjfX+AGMIt/fIqd/SL1Lj93S6AiJsEA3oc5M9VkUr+Gz+juRmYN1vfvZd6MvEkSqEjwPQgcjN7rGZHrDB9APfQ==
+"@motionone/dom@^10.15.3":
+  version "10.15.3"
+  resolved "https://registry.npmjs.org/@motionone/dom/-/dom-10.15.3.tgz"
+  integrity sha512-FQ7a2zMBXc1UeU8CG9G3yDpst55fbb0+C9A0VGfwOITitBCzigKZnXRgsRSWWR+FW57GSc13eGQxtYB0lKG0Ng==
   dependencies:
-    "@motionone/animation" "^10.13.1"
-    "@motionone/generators" "^10.13.1"
-    "@motionone/types" "^10.13.0"
-    "@motionone/utils" "^10.13.1"
+    "@motionone/animation" "^10.15.1"
+    "@motionone/generators" "^10.15.1"
+    "@motionone/types" "^10.15.1"
+    "@motionone/utils" "^10.15.1"
     hey-listen "^1.0.8"
     tslib "^2.3.1"
 
-"@motionone/easing@^10.14.0":
-  version "10.14.0"
-  resolved "https://registry.npmjs.org/@motionone/easing/-/easing-10.14.0.tgz"
-  integrity sha512-2vUBdH9uWTlRbuErhcsMmt1jvMTTqvGmn9fHq8FleFDXBlHFs5jZzHJT9iw+4kR1h6a4SZQuCf72b9ji92qNYA==
+"@motionone/easing@^10.15.1":
+  version "10.15.1"
+  resolved "https://registry.npmjs.org/@motionone/easing/-/easing-10.15.1.tgz"
+  integrity sha512-6hIHBSV+ZVehf9dcKZLT7p5PEKHGhDwky2k8RKkmOvUoYP3S+dXsKupyZpqx5apjd9f+php4vXk4LuS+ADsrWw==
   dependencies:
-    "@motionone/utils" "^10.14.0"
+    "@motionone/utils" "^10.15.1"
     tslib "^2.3.1"
 
-"@motionone/generators@^10.13.1":
-  version "10.14.0"
-  resolved "https://registry.npmjs.org/@motionone/generators/-/generators-10.14.0.tgz"
-  integrity sha512-6kRHezoFfIjFN7pPpaxmkdZXD36tQNcyJe3nwVqwJ+ZfC0e3rFmszR8kp9DEVFs9QL/akWjuGPSLBI1tvz+Vjg==
+"@motionone/generators@^10.15.1":
+  version "10.15.1"
+  resolved "https://registry.npmjs.org/@motionone/generators/-/generators-10.15.1.tgz"
+  integrity sha512-67HLsvHJbw6cIbLA/o+gsm7h+6D4Sn7AUrB/GPxvujse1cGZ38F5H7DzoH7PhX+sjvtDnt2IhFYF2Zp1QTMKWQ==
   dependencies:
-    "@motionone/types" "^10.14.0"
-    "@motionone/utils" "^10.14.0"
+    "@motionone/types" "^10.15.1"
+    "@motionone/utils" "^10.15.1"
     tslib "^2.3.1"
 
-"@motionone/types@^10.13.0", "@motionone/types@^10.14.0":
-  version "10.14.0"
-  resolved "https://registry.npmjs.org/@motionone/types/-/types-10.14.0.tgz"
-  integrity sha512-3bNWyYBHtVd27KncnJLhksMFQ5o2MSdk1cA/IZqsHtA9DnRM1SYgN01CTcJ8Iw8pCXF5Ocp34tyAjY7WRpOJJQ==
+"@motionone/types@^10.15.1":
+  version "10.15.1"
+  resolved "https://registry.npmjs.org/@motionone/types/-/types-10.15.1.tgz"
+  integrity sha512-iIUd/EgUsRZGrvW0jqdst8st7zKTzS9EsKkP+6c6n4MPZoQHwiHuVtTQLD6Kp0bsBLhNzKIBlHXponn/SDT4hA==
 
-"@motionone/utils@^10.13.1", "@motionone/utils@^10.14.0":
-  version "10.14.0"
-  resolved "https://registry.npmjs.org/@motionone/utils/-/utils-10.14.0.tgz"
-  integrity sha512-sLWBLPzRqkxmOTRzSaD3LFQXCPHvDzyHJ1a3VP9PRzBxyVd2pv51/gMOsdAcxQ9n+MIeGJnxzXBYplUHKj4jkw==
+"@motionone/utils@^10.15.1":
+  version "10.15.1"
+  resolved "https://registry.npmjs.org/@motionone/utils/-/utils-10.15.1.tgz"
+  integrity sha512-p0YncgU+iklvYr/Dq4NobTRdAPv9PveRDUXabPEeOjBLSO/1FNB2phNTZxOxpi1/GZwYpAoECEa0Wam+nsmhSw==
   dependencies:
-    "@motionone/types" "^10.14.0"
+    "@motionone/types" "^10.15.1"
     hey-listen "^1.0.8"
     tslib "^2.3.1"
 
@@ -722,15 +722,6 @@ dlv@^1.1.3:
   resolved "https://registry.npmjs.org/dlv/-/dlv-1.1.3.tgz"
   integrity sha512-+HlytyjlPKnIG8XuRG8WvmBP8xs8P71y+SKKS6ZXWoEgLuePxtDoUEiH7WkdePWrQ5JBpE6aoVqfZfJUQkjXwA==
 
-"docs@file:C:\\Users\\mgarg\\frame\\Next13-Gallery-Image-Turbo\\apps\\docs":
-  version "1.0.0"
-  resolved "file:apps/docs"
-  dependencies:
-    next latest
-    react "^18.2.0"
-    react-dom "^18.2.0"
-    ui "*"
-
 doctrine@^2.1.0:
   version "2.1.0"
   resolved "https://registry.npmjs.org/doctrine/-/doctrine-2.1.0.tgz"
@@ -861,7 +852,7 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-custom@*, "eslint-config-custom@file:C:\\Users\\mgarg\\frame\\Next13-Gallery-Image-Turbo\\packages\\eslint-config-custom":
+eslint-config-custom@*, "eslint-config-custom@file:D:\\Next13-miguelgargallo-Framework-Turbo\\packages\\eslint-config-custom":
   version "0.0.0"
   resolved "file:packages/eslint-config-custom"
   dependencies:
@@ -1226,25 +1217,16 @@ fraction.js@^4.2.0:
   resolved "https://registry.npmjs.org/fraction.js/-/fraction.js-4.2.0.tgz"
   integrity sha512-MhLuK+2gUcnZe8ZHlaaINnQLl0xRIGRfcGk2yl8xoQAfHrSsL3rYu6FCmBdkdbhc9EPlwyGHewaRsvwRMJtAlA==
 
-framer-motion@^7.6.18:
-  version "7.6.18"
-  resolved "https://registry.npmjs.org/framer-motion/-/framer-motion-7.6.18.tgz"
-  integrity sha512-+njLqmMZBqf+GpIMRkuC7s9A9KrvOfMXm+B/yscKG+/SKAA+qdQFl/3ACU2tAhN7UFau1HuB/vBa/jrWBKVvDg==
+framer-motion@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.npmjs.org/framer-motion/-/framer-motion-8.0.1.tgz"
+  integrity sha512-rr9Sb97cGM5BWU0jMsmTi9x5w8hF90p6wRUlXto5IFejxMVS8YUxT8Ljjy8RspQKPEGOQUZDIZNvlcLBhs0tMw==
   dependencies:
-    "@motionone/dom" "10.13.1"
-    framesync "6.1.2"
+    "@motionone/dom" "^10.15.3"
     hey-listen "^1.0.8"
-    style-value-types "5.1.2"
     tslib "2.4.0"
   optionalDependencies:
     "@emotion/is-prop-valid" "^0.8.2"
-
-framesync@6.1.2:
-  version "6.1.2"
-  resolved "https://registry.npmjs.org/framesync/-/framesync-6.1.2.tgz"
-  integrity sha512-jBTqhX6KaQVDyus8muwZbBeGGP0XgujBRbQ7gM7BRdS3CadCZIHiawyzYLnafYcvZIh5j8WE7cxZKFn7dXhu9g==
-  dependencies:
-    tslib "2.4.0"
 
 fs.realpath@^1.0.0:
   version "1.0.0"
@@ -1716,11 +1698,6 @@ merge2@^1.3.0, merge2@^1.4.1:
   resolved "https://registry.npmjs.org/merge2/-/merge2-1.4.1.tgz"
   integrity sha512-8q7VEgMJW4J8tcfVPy8g09NcQwZdbwFEqhe/WZkoIzjn/3TGDwtOCYtXGxA3O8tPzpczCCDgv+P2P5y00ZJOOg==
 
-meshgrad@^0.0.10:
-  version "0.0.10"
-  resolved "https://registry.npmjs.org/meshgrad/-/meshgrad-0.0.10.tgz"
-  integrity sha512-2zbFsXfjy1CxIT7oWn3KHo2HIJY/zZloMEVwuxmcM3baTW38wyogYkF+b2pKxGtTk+s8bU+sBZYKGMblF1+IJA==
-
 micromatch@^4.0.4, micromatch@^4.0.5:
   version "4.0.5"
   resolved "https://registry.npmjs.org/micromatch/-/micromatch-4.0.5.tgz"
@@ -2027,16 +2004,6 @@ prelude-ls@^1.2.1:
   version "1.2.1"
   resolved "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.2.1.tgz"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
-
-prettier-plugin-tailwindcss@^0.1.11:
-  version "0.1.13"
-  resolved "https://registry.npmjs.org/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.1.13.tgz"
-  integrity sha512-/EKQURUrxLu66CMUg4+1LwGdxnz8of7IDvrSLqEtDqhLH61SAlNNUSr90UTvZaemujgl3OH/VHg+fyGltrNixw==
-
-prettier@^2.7.1, prettier@>=2.2.0:
-  version "2.7.1"
-  resolved "https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz"
-  integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
 progress@^2.0.0:
   version "2.0.3"
@@ -2349,14 +2316,6 @@ strip-json-comments@^3.1.0, strip-json-comments@^3.1.1:
   resolved "https://registry.npmjs.org/strip-json-comments/-/strip-json-comments-3.1.1.tgz"
   integrity sha512-6fPc+R4ihwqP6N/aIv2f1gMH8lOVtWQHoqC4yK6oSDVVocumAsfCqjkXnqiYMhmMwS/mEHLp7Vehlt3ql6lEig==
 
-style-value-types@5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npmjs.org/style-value-types/-/style-value-types-5.1.2.tgz"
-  integrity sha512-Vs9fNreYF9j6W2VvuDTP7kepALi7sk0xtk2Tu8Yxi9UoajJdEVpNpCov0HsLTqXvNGKX+Uv09pkozVITi1jf3Q==
-  dependencies:
-    hey-listen "^1.0.8"
-    tslib "2.4.0"
-
 styled-jsx@5.1.0:
   version "5.1.0"
   resolved "https://registry.npmjs.org/styled-jsx/-/styled-jsx-5.1.0.tgz"
@@ -2413,7 +2372,7 @@ table@^6.0.9:
     string-width "^4.2.3"
     strip-ansi "^6.0.1"
 
-tailwind-config@*, "tailwind-config@file:C:\\Users\\mgarg\\frame\\Next13-Gallery-Image-Turbo\\packages\\tailwind-config":
+tailwind-config@*, "tailwind-config@file:D:\\Next13-miguelgargallo-Framework-Turbo\\packages\\tailwind-config":
   version "0.0.0"
   resolved "file:packages/tailwind-config"
 
@@ -2499,7 +2458,7 @@ tsconfig-paths@^3.14.1:
     minimist "^1.2.6"
     strip-bom "^3.0.0"
 
-tsconfig@*, "tsconfig@file:C:\\Users\\mgarg\\frame\\Next13-Gallery-Image-Turbo\\packages\\tsconfig":
+tsconfig@*, "tsconfig@file:D:\\Next13-miguelgargallo-Framework-Turbo\\packages\\tsconfig":
   version "0.0.0"
   resolved "file:packages/tsconfig"
 
@@ -2540,23 +2499,6 @@ tsutils@^3.21.0:
   dependencies:
     tslib "^1.8.1"
 
-turbo-windows-64@1.6.3:
-  version "1.6.3"
-  resolved "https://registry.npmjs.org/turbo-windows-64/-/turbo-windows-64-1.6.3.tgz"
-  integrity sha512-lKRqwL3mrVF09b9KySSaOwetehmGknV9EcQTF7d2dxngGYYX1WXoQLjFP9YYH8ZV07oPm+RUOAKSCQuDuMNhiA==
-
-turbo@latest:
-  version "1.6.3"
-  resolved "https://registry.npmjs.org/turbo/-/turbo-1.6.3.tgz"
-  integrity sha512-FtfhJLmEEtHveGxW4Ye/QuY85AnZ2ZNVgkTBswoap7UMHB1+oI4diHPNyqrQLG4K1UFtCkjOlVoLsllUh/9QRw==
-  optionalDependencies:
-    turbo-darwin-64 "1.6.3"
-    turbo-darwin-arm64 "1.6.3"
-    turbo-linux-64 "1.6.3"
-    turbo-linux-arm64 "1.6.3"
-    turbo-windows-64 "1.6.3"
-    turbo-windows-arm64 "1.6.3"
-
 type-check@^0.4.0, type-check@~0.4.0:
   version "0.4.0"
   resolved "https://registry.npmjs.org/type-check/-/type-check-0.4.0.tgz"
@@ -2574,7 +2516,7 @@ typescript@^4.1.0, typescript@^4.5.2, typescript@^4.5.3, "typescript@>=2.8.0 || 
   resolved "https://registry.npmjs.org/typescript/-/typescript-4.9.3.tgz"
   integrity sha512-CIfGzTelbKNEnLpLdGFgdyKhG23CKdKgQPOBc+OUNrkJ2vr+KSzsSV5kq5iWhEQbok+quxgGzrAtGWCyU7tHnA==
 
-ui@*, "ui@file:C:\\Users\\mgarg\\frame\\Next13-Gallery-Image-Turbo\\packages\\ui":
+ui@*, "ui@file:D:\\Next13-miguelgargallo-Framework-Turbo\\packages\\ui":
   version "0.0.0"
   resolved "file:packages/ui"
 
@@ -2618,7 +2560,7 @@ v8-compile-cache@^2.0.3:
   resolved "https://registry.npmjs.org/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz"
   integrity sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA==
 
-"web@file:C:\\Users\\mgarg\\frame\\Next13-Gallery-Image-Turbo\\apps\\web":
+"web@file:D:\\Next13-miguelgargallo-Framework-Turbo\\apps\\web":
   version "1.0.0"
   resolved "file:apps/web"
   dependencies:
